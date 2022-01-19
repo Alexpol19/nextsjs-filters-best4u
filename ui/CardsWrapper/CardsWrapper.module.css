@@ -1,0 +1,11 @@
+.cardsWrapper {
+  max-width: 1383px;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 32px;
+}
+
+.paginationWrapper {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,13 @@
+.filters {
+  max-width: 1383px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.filtersContent {
+  display: flex;
+  justify-content: center;
+  padding: 31px;
+  padding-top: 81px;
+  padding-bottom: 81px;
+}

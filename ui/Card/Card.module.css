@@ -1,0 +1,35 @@
+.wrapper {
+  flex: 0 0 33.3%;
+}
+
+.card {
+  padding-right: 31px;
+  padding-left: 31px;
+  padding-bottom: 41px;
+}
+
+.image {
+  width: 100%;
+  object-fit: cover;
+  height: 397px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+}
+
+.info h5,
+.info p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #1c1c1c;
+  font-size: 13px;
+}
+
+.info h5 {
+  padding-right: 40px;
+}

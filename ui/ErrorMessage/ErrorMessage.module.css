@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.error {
+  background-color: rgb(0, 0, 0);
+  padding: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 8px;
+}
+
+.error p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
